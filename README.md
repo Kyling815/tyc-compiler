@@ -8,9 +8,9 @@
 ## REQUIREMENTS
 
 ```build.sh
-Turn CRLF to LF
+Turn CRLF to LF (build.sh)
 ```
 
 ```ANTLR
 install ANTLR extension directly to the Docker project to successfully compile .g4 files
----
+```
